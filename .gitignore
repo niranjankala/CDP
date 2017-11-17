@@ -80,3 +80,5 @@
 /MySqlEF6Integration/MySqlEF6Integration.WinApp/obj/Debug
 /MySqlEF6Integration/packages/MySql.Data.Entity.6.10.4
 /MySqlEF6Integration/packages/MySql.Data.6.10.4
+/MySqlEF6Integration/packages/MySql.Data.6.9.10
+/MySqlEF6Integration/packages/MySql.Data.Entity.6.9.10
