@@ -74,3 +74,9 @@
 /MySqlEF6Integration/packages/bootstrap.3.3.7
 /MySqlEF6Integration/packages/Antlr.3.5.0.2
 /MySqlEF6Integration/packages/Microsoft.Net.Compilers.2.1.0
+/MySqlEF6Integration/MySqlEF6Integration.DataAccess/bin/Debug
+/MySqlEF6Integration/MySqlEF6Integration.UI.Tests/bin/Debug
+/MySqlEF6Integration/MySqlEF6Integration.WinApp/bin/Debug
+/MySqlEF6Integration/MySqlEF6Integration.WinApp/obj/Debug
+/MySqlEF6Integration/packages/MySql.Data.Entity.6.10.4
+/MySqlEF6Integration/packages/MySql.Data.6.10.4

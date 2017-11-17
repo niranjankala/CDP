@@ -92,6 +92,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MySqlEF6Integration.UI\MySqlEF6Integration.UI.csproj">
+      <Project>{dfdb851c-8358-453f-a6d4-1dcea1bc795b}</Project>
+      <Name>MySqlEF6Integration.UI</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

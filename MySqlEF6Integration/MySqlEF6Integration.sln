@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlEF6Integration.DataAcc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlEF6Integration.UI", "MySqlEF6Integration.UI\MySqlEF6Integration.UI.csproj", "{DFDB851C-8358-453F-A6D4-1DCEA1BC795B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlEF6Integration.WinApp", "MySqlEF6Integration.WinApp\MySqlEF6Integration.WinApp.csproj", "{754AF4CB-CB5B-4542-A57E-5A07C5C75061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DFDB851C-8358-453F-A6D4-1DCEA1BC795B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFDB851C-8358-453F-A6D4-1DCEA1BC795B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFDB851C-8358-453F-A6D4-1DCEA1BC795B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754AF4CB-CB5B-4542-A57E-5A07C5C75061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754AF4CB-CB5B-4542-A57E-5A07C5C75061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754AF4CB-CB5B-4542-A57E-5A07C5C75061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754AF4CB-CB5B-4542-A57E-5A07C5C75061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
